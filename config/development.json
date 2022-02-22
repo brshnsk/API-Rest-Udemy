@@ -1,0 +1,6 @@
+{
+    "nombre" : "Api RESTful desarrollo",
+    "configDB": {
+        "host" : "dev-db-server"
+    }
+}
